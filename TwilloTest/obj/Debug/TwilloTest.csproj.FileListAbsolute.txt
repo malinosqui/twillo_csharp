@@ -1,0 +1,15 @@
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\TwilloTest.exe.config
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\TwilloTest.exe
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\TwilloTest.pdb
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\Microsoft.IdentityModel.Logging.dll
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\Microsoft.IdentityModel.Tokens.dll
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\Newtonsoft.Json.dll
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\System.IdentityModel.Tokens.Jwt.dll
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\Twilio.dll
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\Microsoft.IdentityModel.Tokens.xml
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\Newtonsoft.Json.xml
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\System.IdentityModel.Tokens.Jwt.xml
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\bin\Debug\Twilio.xml
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\obj\Debug\TwilloTest.csprojResolveAssemblyReference.cache
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\obj\Debug\TwilloTest.exe
+c:\users\gabriel.malinosqui\documents\visual studio 2015\Projects\TwilloTest\TwilloTest\obj\Debug\TwilloTest.pdb
